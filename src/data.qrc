@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>data/icon/ShanghaiMetro.png</file>
+        <file>data/icon/transfer.png</file>
+    </qresource>
+</RCC>

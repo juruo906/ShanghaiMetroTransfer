@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>icon/ShanghaiMetro.png</file>
+        <file>icon/connect.png</file>
+        <file>icon/Line.png</file>
+        <file>icon/Station.png</file>
+        <file>icon/map.png</file>
+        <file>icon/enlarge.png</file>
+        <file>icon/shrink.png</file>
+        <file>icon/help.png</file>
+        <file>Document/help_ViewMap.html</file>
+        <file>Document/help_Transfer.html</file>
+        <file>Document/help_Toolbar.html</file>
+        <file>Info/Infomation.txt</file>
+        <file>Document/help_Addition.html</file>
+    </qresource>
+</RCC>
